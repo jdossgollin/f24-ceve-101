@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecture:Water Treatment"
+title: "Guest Lecture: Water Treatment"
 date: 2024-10-22
 module: 3
 
@@ -7,15 +7,8 @@ categories:
   - Guest Lecture
 
 # do not edit anything below this line
-format: revealjs
-
-author: "{{< var instructor.name >}}"
-course: "{{< var course.number >}}, {{< var course.title >}}"
-institution: "{{< var course.institution >}}}"
-template-partials:
-    - ../title-slide.html
+format: html
 ---
 
 
-::: {#refs}
-:::
+Thanks to [Prof. Getachew](https://profiles.rice.edu/faculty/bezawit-getachew) for her guest lecture.

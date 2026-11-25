@@ -9,3 +9,5 @@ categories:
 # do not edit anything below this line
 format: html
 ---
+
+Thanks to [Prof. Padgett](https://profiles.rice.edu/faculty/jamie-padgett) for her guest lecture.

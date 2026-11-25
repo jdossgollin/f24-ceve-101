@@ -1,5 +1,5 @@
 ---
-title: "Project 4: Building Codes to Protect Against Tropical Storms"
+title: "Project 4: Enhancing Coastal Resilience through Building Codes"
 date: 2024-11-12
 module: 4
 
@@ -7,11 +7,153 @@ categories: [Project]
 format: html
 ---
 
-Building codes are essential for ensuring that the built environment is safe during natural disasters such as tropical storms.
-In this project, you will choose a building type, identify a relevant guideline, and assess whether these codes should be updated, and if so, how.
-You will consider impact on safety, cost, relevant infrastructure, and reliability.
+# Project Overview
 
-::: {.callout-tip}
-Further details will be provided.
-You will create and submit a written report.
-:::
+Coastal regions like Houston-Galveston face increasing risks from tropical storms, hurricanes, sea-level rise, and other coastal hazards. Building codes and standards are crucial tools for engineers and policymakers to enhance the resilience of infrastructure in these vulnerable areas.
+
+In this project, you will work in groups to:
+
+- **Select a specific type of infrastructure** (e.g., energy facilities, water treatment plants, transportation networks) within the Houston-Galveston region.
+- **Identify relevant building codes, standards, or guidelines** that apply to your chosen infrastructure.
+- **Propose updates or changes** to these codes to improve coastal resilience.
+
+Your proposal should provide:
+
+- **Clear and actionable guidance** on the recommended changes.
+- **Justification** for why the changes are necessary, backed by research and analysis.
+- **An analysis of objectives** that stakeholders should consider, such as safety, cost, environmental impact, and reliability.
+- **An assessment of how your proposed changes** affect these objectives, including potential trade-offs.
+- **Strategies to mitigate any negative impacts**, like increased costs or implementation challenges.
+
+# Assignment Outline
+
+## Task 1: Infrastructure Selection and Vulnerability Assessment
+
+- **Choose a Type of Infrastructure**: Select an infrastructure type within the energy, water, or transportation sectors that is pertinent to the Houston-Galveston area.
+- **Identify Vulnerabilities**: Research how this infrastructure is currently vulnerable to coastal hazards such as flooding, storm surges, or high winds.
+- **Document Evidence**: Use data, case studies, or past events to illustrate these vulnerabilities.
+
+## Task 2: Review of Existing Codes and Standards
+
+- **Find Relevant Codes**: Identify existing building codes, standards, or guidelines that govern your selected infrastructure. Examples include ASCE standards, local building codes, or industry-specific guidelines.
+- **Summarize Key Provisions**: Outline the main aspects of these codes related to coastal resilience.
+- **Evaluate Effectiveness**: Assess how well the current codes address the identified vulnerabilities.
+
+## Task 3: Proposal for Code Updates
+
+- **Develop Recommendations**: Propose specific, actionable changes or additions to the existing codes to enhance resilience.
+- **Justify the Changes**: Provide evidence and reasoning for why these updates are necessary, referencing research and best practices.
+- **Illustrate Improvements**: Explain how your proposed changes will mitigate vulnerabilities and improve overall resilience.
+
+## Task 4: Objectives Analysis
+
+- **Identify Stakeholder Objectives**: Determine what objectives are important for stakeholders, such as:
+  - **Safety**: Protection of life and property.
+  - **Cost**: Financial implications for construction and maintenance.
+  - **Infrastructure Requirements**: Material availability, construction techniques.
+  - **Reliability**: Consistent performance under stress.
+  - **Environmental Impact**: Effects on the local ecosystem.
+- **Analyze Impacts**: Discuss how your proposed code changes affect each objective, highlighting benefits and potential drawbacks.
+
+## Task 5: Mitigation of Negative Impacts
+
+- **Identify Challenges**: Recognize any negative consequences of your proposed changes, such as increased costs or technical difficulties.
+- **Propose Mitigation Strategies**: Suggest ways to overcome these challenges, which may include:
+  - **Cost-Benefit Analysis**: Demonstrating long-term savings.
+  - **Phased Implementation**: Gradually introducing changes.
+  - **Incentives**: Financial or regulatory incentives to encourage adoption.
+  - **Alternative Solutions**: Using innovative materials or methods to reduce costs.
+
+## Task 6: Report Preparation
+
+- **Structure Your Report**: Organize your findings into a coherent report with clear headings and sections.
+- **Formatting Guidelines**:
+  - Length: Approximately 5 pages (excluding references).
+  - Spacing: 1.5 line spacing.
+  - Font: 11-point Times New Roman or Arial.
+  - Margins: 1-inch on all sides.
+- **Referencing**:
+  - Use an author-year citation style (e.g., APA, Harvard).
+  - Manage references using Zotero.
+  - Include a reference list at the end of your report.
+
+# Tentative Timeline
+
+- **Report Due**: December 6 (last day of classes), as per the Rice University schedule. All dates will be posted on Canvas.
+
+# Submission Guidelines
+
+- **Due Date**: Submit your report by December 6 on Canvas.
+- **Group Work**: You will be assigned to groups of 3-4 students. Collaboration is essential.
+- **File Format**: Submit a single PDF document named `Project4_GroupX.pdf`, where `X` is your group number.
+
+# Grading Rubric
+
+## Content Quality (50 points)
+
+- **Vulnerability Assessment (15 points)**:
+  - Clear identification of infrastructure vulnerabilities.
+  - Use of evidence and data to support claims.
+
+- **Code Review and Proposed Updates (25 points)**:
+  - **Code Review (10 points)**:
+    - Comprehensive summary of existing codes.
+    - Critical evaluation of code effectiveness.
+  - **Proposed Updates (15 points)**:
+    - Specific and actionable recommendations.
+    - Strong justification for each proposed change.
+    - Illustration of how proposed changes enhance resilience.
+
+- **Objectives Analysis and Mitigation Strategies (10 points)**:
+  - **Objectives Analysis (5 points)**:
+    - Identification of relevant stakeholder objectives.
+    - Insightful analysis of impacts on each objective.
+  - **Mitigation Strategies (5 points)**:
+    - Recognition of potential negative impacts.
+    - Practical and innovative mitigation proposals.
+
+## Technical Accuracy and Depth (20 points)
+
+- **Understanding of Concepts (10 points)**:
+  - Demonstrated grasp of coastal resilience principles.
+  - Appropriate application of engineering concepts.
+
+- **Attention to Detail (10 points)**:
+  - Accuracy in data, calculations, and technical explanations.
+  - Consideration of practical implementation issues.
+
+## Communication (20 points)
+
+- **Organization (10 points)**:
+  - Logical flow and structure.
+  - Effective use of headings and subheadings.
+
+- **Clarity and Professionalism (10 points)**:
+  - Clear and concise writing.
+  - Professional tone appropriate for an engineering audience.
+
+## Referencing (10 points)
+
+- **References (10 points)**:
+  - Correct and consistent citation style.
+  - Proper use of Zotero for reference management.
+  - All sources properly cited.
+
+# Resources
+
+- **ASCE Standards**: Access through Fondren Library or online databases.
+- @ayyub_asce:2018: This report explores needs and opportunities for climate resilience in building codes.
+- **Galveston Bay Park Plan**: Review details of the plan for context and inspiration.
+- **Lectures and Seminar Notes**: Utilize materials from class discussions on coastal hazards, building codes, and innovative engineering solutions.
+- **Engineering Communication**: Apply principles from the seminar to enhance your report.
+- **Zotero**: Use this tool for managing your references efficiently.
+- **Fondren Library**: Utilize library resources for additional research materials.
+
+# Tips for Success
+
+- **Start Early**: Begin coordinating with your group and researching promptly.
+- **Divide Responsibilities**: Assign specific tasks to group members based on strengths.
+- **Engage with the Community**: If possible, reach out to local experts or organizations for insights.
+- **Iterative Drafting**: Review and revise your report multiple times.
+- **Proofreading**: Check for grammatical errors and ensure clarity.
+- **Consult Instructors**: Don't hesitate to ask questions or seek feedback during office hours.

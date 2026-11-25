@@ -4,17 +4,18 @@ date: 2024-11-12
 module: 4
 
 categories: 
-  - Planned Lecture
+  - Lecture
 
 # do not edit anything below this line
-format: revealjs
-
-author: "{{< var instructor.name >}}"
-course: "{{< var course.number >}}, {{< var course.title >}}"
-institution: "{{< var course.institution >}}}"
-template-partials:
-    - ../title-slide.html
+format: html
 ---
+
+Today we will have an in-class discussion of building codes.
+In class, we will read @frank_newjersey:2022 and discuss.
+
+## Logistical Notes
+
+[Project 4](../../projects/project-4.qmd) is now posted.
 
 
 ::: {#refs}

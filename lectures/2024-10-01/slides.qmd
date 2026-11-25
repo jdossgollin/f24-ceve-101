@@ -9,3 +9,5 @@ categories:
 # do not edit anything below this line
 format: html
 ---
+
+Thanks to [Prof. Qian](https://profiles.rice.edu/faculty/xinwu-qian) for his guest lecture.

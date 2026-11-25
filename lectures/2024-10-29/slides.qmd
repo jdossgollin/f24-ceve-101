@@ -1,21 +1,13 @@
 ---
-title: "Unconventional Water Sources"
+title: "Project 3 Work Time"
 date: 2024-10-29
 module: 3
 
 categories: 
-  - Planned Lecture
+  - In-class work time
 
 # do not edit anything below this line
-format: revealjs
-
-author: "{{< var instructor.name >}}"
-course: "{{< var course.number >}}, {{< var course.title >}}"
-institution: "{{< var course.institution >}}}"
-template-partials:
-    - ../title-slide.html
+format: html
 ---
 
-
-::: {#refs}
-:::
+We used this time to work on [Project 3](../../projects/project-3.qmd).
